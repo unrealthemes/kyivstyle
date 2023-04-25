@@ -1,0 +1,22 @@
+/*!
+Theme Name: Notebook
+Author: Bondarenko Roman
+Author URI: https://unrealthemes.ru/
+Description: Description
+Version: 1.2
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: Notebook
+*/
+
+.preloader-wrapper {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.grecaptcha-badge { 
+    opacity:0;
+} 
