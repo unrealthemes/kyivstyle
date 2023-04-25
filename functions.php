@@ -36,7 +36,7 @@ function tenthouse_attach_theme_options() {
 
 add_filter('carbon_fields_map_field_api_key', 'get_gmaps_api_key');
 function get_gmaps_api_key($current_key){
-    return 'AIzaSyDL-pHnwb1JGvfG_7wCKcOa2aDOyexT8Ws';
+    return '';
 }
 
 if ( ! function_exists( 'notebook_setup' ) ) :
